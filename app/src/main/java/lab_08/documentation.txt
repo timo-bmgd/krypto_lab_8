@@ -1,0 +1,13 @@
+We use serverport
+
+
+
+
+
+Alice
+Serverport = 5000
+Clientport = 6000
+
+Bob
+Serverport = 6000
+Clientport = 5000
